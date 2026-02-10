@@ -1,5 +1,3 @@
----
-
 # 1. Setup & Configuration (First-time use)
 
 ```bash
