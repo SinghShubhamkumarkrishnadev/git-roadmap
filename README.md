@@ -1,8 +1,8 @@
 # 1. Setup & Configuration (First-time use)
 
 ```bash
-git config --global user.name "Name"
-git config --global user.email "email@example.com"
+git config --global user.name "username"
+git config --global user.email "useremail@example.com"
 git config --global core.editor vim
 git config --global init.defaultBranch main
 git config --list
